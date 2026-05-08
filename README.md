@@ -15,7 +15,7 @@ A project management tool (Jira/Asana-like) built with Next.js 14, Firebase Auth
 ### ☁️ Phase 2 — Cloud Deployment & Secrets Management
 - Codebase pushed to GitHub and connected to **Vercel** for CI/CD
 - All Firebase environment variables securely migrated from local `.env.local` into the **Vercel Environment Variables dashboard**
-- Live production URL: `https://your-project.vercel.app` *(update with your actual URL)*
+- Live production URL: `https://task-matrix-topaz.vercel.app`
 - Any `git push` to `main` automatically triggers a rebuild and redeploy
 
 ### 🔦 Phase 3 — Lighthouse Audit & Web Performance Optimization
